@@ -22,7 +22,7 @@
 <img src="python алгоритмика.png" alt="Сертификат Алгоритмики" width="400"/>
 
 ### Код будущего (МФТИ)
-<img src="mfti-code-future.jpg" alt="Сертификат МФТИ" width="400"/>
+<img src="машинное обучение.jpg" alt="Сертификат МФТИ" width="400"/>
 
 ### Ростелеком
 <img src="rostelecom-diploma.png" alt="Диплом Ростелекома" width="400"/>
